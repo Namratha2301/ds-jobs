@@ -17,6 +17,3 @@ This project analyzes data science job trends, focusing on salaries, job types, 
 2. **Top Countries**: The US, UK, and India lead in the number of data science professionals.
 3. **Company Sizes**: Medium-sized companies are the biggest employers.
 4. **Employment Types**: Most roles (96.87%) are full-time.
-
-### Purpose
-This analysis helps job seekers, employers, and analysts understand the data science job market, providing insights for career planning and recruitment.
